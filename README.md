@@ -6,7 +6,7 @@
 
 Run the following command to update your package repositories:
 
-```bash
+```bashaaa
 sudo apt update
 ```
 
